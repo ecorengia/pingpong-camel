@@ -1,4 +1,4 @@
-package com.example;
+package com.example.beans;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.builder.NotifyBuilder;

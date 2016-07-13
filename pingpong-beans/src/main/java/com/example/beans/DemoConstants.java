@@ -1,4 +1,4 @@
-package com.example;
+package com.example.beans;
 
 public final class DemoConstants {
 

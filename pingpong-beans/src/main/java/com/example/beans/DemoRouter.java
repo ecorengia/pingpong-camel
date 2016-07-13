@@ -1,4 +1,4 @@
-package com.example;
+package com.example.beans;
 
 import com.example.common.PingState;
 import org.apache.camel.LoggingLevel;
