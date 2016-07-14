@@ -6,10 +6,11 @@ Project layout
 
 * `pingpong-common` Contains all common files used by the rest of the maven modules.
 * `pingpong-beans` Play ping pong between two Java beans.
+* `pingpong-jms` Play ping pong between using a JMS broker.
 
 Installation
 ============
-Download this project and in parent folder run
+Download the project and in parent folder run
 
     mvn clean install
   
@@ -19,4 +20,4 @@ Then you can start one of the contained bundles by simply running
 
 You can also check Camel route metrics from the remote shell running
 
-        ssh -p 2000 user@localhost (password is 'password123')
+    ssh -p 2000 user@localhost (password is 'password123')
